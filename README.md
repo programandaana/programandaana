@@ -3,10 +3,10 @@
 Meu nome é Analissa e trabalho há 13 anos com Geotecnologias, desde meu estágio no Escritório da Cidade de Santa Maria.
 Hoje executo minhas habilidades como Agente Administrativo na Secretaria de Urbanismo e Projetos da Prefeitura Municipal de Santa Maria.
 Sou acadêmica do curso de Sistemas para Internet (Tecnologia) da Universidade Federal de Santa Maria, mas já tenho várias formações:
-- Engenharia Florestal - UFSM
-- Mestrado em Silvicultura - UFSM
-- Técnico em Geoprocessamento - UFSM
-- Técnico em Informática - UFSM
+- 🌴 Engenharia Florestal - UFSM
+- 🌳 Mestrado em Silvicultura - UFSM
+- 🌎 Técnico em Geoprocessamento - UFSM
+- 💻 Técnico em Informática - UFSM
 
 Foquei minhas atividades em Sistemas de Informação Geográfica (SIG/GIS) e Banco de Dados, hoje em dia estudo para elaboração de Sistemas Web para exibição de dados geográficos.
 
