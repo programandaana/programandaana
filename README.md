@@ -8,7 +8,7 @@ Sou acadêmica do curso de Sistemas para Internet (Tecnologia) da Universidade F
 - 🌎 Técnico em Geoprocessamento - UFSM
 - 💻 Técnico em Informática - UFSM
 
-Foquei minhas atividades em Sistemas de Informação Geográfica (SIG/GIS) e Banco de Dados, hoje em dia estudo para elaboração de Sistemas Web com ênfase exibição de dados geográficos.
+Foquei minhas atividades em Sistemas de Informação Geográfica (SIG/GIS) e Banco de Dados, hoje em dia estudo para elaboração de Sistemas Web com ênfase em exibição de dados geográficos.
 
 Em breve, maiores informações. Um pouco das minhas habilidades podem ser conferidas no meu portfólio https://www.linkedin.com/posts/activity-7367243493515112448-MXI0
 
