@@ -8,7 +8,7 @@ Sou acadêmica do curso de Sistemas para Internet (Tecnologia) da Universidade F
 - 🌎 Técnico em Geoprocessamento - UFSM
 - 💻 Técnico em Informática - UFSM
 
-Foquei minhas atividades em Sistemas de Informação Geográfica (SIG/GIS) e Banco de Dados, hoje em dia estudo para elaboração de Sistemas Web para exibição de dados geográficos.
+Foquei minhas atividades em Sistemas de Informação Geográfica (SIG/GIS) e Banco de Dados, hoje em dia estudo para elaboração de Sistemas Web com ênfase exibição de dados geográficos.
 
 Em breve, maiores informações. Um pouco das minhas habilidades podem ser conferidas no meu portfólio https://www.linkedin.com/posts/activity-7367243493515112448-MXI0
 
@@ -19,7 +19,7 @@ Exemplo de upload de dados na plataforma Google®️ My Maps®️
 
 ## Hi there 👋
 
-Soon I try to explain what I can do for you ❤️
+Soon I'll try to explain what I can do for you ❤️
 
 <!--
 **programandaana/programandaana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
