@@ -13,6 +13,7 @@ Foquei minhas atividades em Sistemas de Informação Geográfica (SIG/GIS) e Ban
 Em breve, maiores informações. Um pouco das minhas habilidades podem ser conferidas no meu portfólio https://www.linkedin.com/posts/activity-7367243493515112448-MXI0
 
 <a href="https://www.google.com/maps/d/u/0/edit?mid=18WRgRsfy8KnbjdFN8CkQrOAs8d3vTZk&usp=sharing"><img width="855" height="658" alt="image" src="https://github.com/user-attachments/assets/d69f654a-d882-4e8b-8ae8-b071dc805cb2" /></a>
+
 Exemplo de upload de dados na plataforma Google®️ My Maps®️
 
 
